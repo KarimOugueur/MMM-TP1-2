@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.istic.mmm.tp1.MainActivity">
+    <item
+        android:id="@+id/phone_number"
+        android:orderInCategory="100"
+        android:title="Phone"
+        app:showAsAction="never" />
+</menu>
